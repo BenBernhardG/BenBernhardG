@@ -1,3 +1,13 @@
+<a href="https://github.com/BenBernhardG?tab=repositories"></a>
+
+
+
+
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Ben Giese</h1>
 <h3 align="center">???</h3>
 
@@ -37,7 +47,7 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=benbernhardg&show_icons=true&locale=en&layout=compact" alt="benbernhardg" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=benbernhardg&show_icons=true&locale=de&layout=compact" alt="benbernhardg" />
 </p>
 
 <!---
