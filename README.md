@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ben Giese</h1>
 
-<p>
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=benbernhardg&show_icons=true&locale=de&layout=compact" alt="benbernhardg" />
 </p>
 
