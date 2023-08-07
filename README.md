@@ -1,7 +1,7 @@
 <h1 align="center">🍖 Beef?</h1>
 <hr>
 <div align="center">
-    <img src="https://lanyard.cnrad.dev/api/833280085552791583)](https://discord.com/users/833280085552791583">
+    <a href="https://lanyard.cnrad.dev/api/833280085552791583)](https://discord.com/users/833280085552791583"></a>
 </div>
 </div>
 <p align="center">
