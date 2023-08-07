@@ -1,7 +1,7 @@
 <h1 align="center">🍖 Beef?</h1>
 <hr>
 <div align="center">
-    <img src="https://lanyard.cnrad.dev/api/833280085552791583"/>
+    <img src="[https://lanyard.cnrad.dev/api/833280085552791583"/>
 </div>
 </div>
 <p align="center">
