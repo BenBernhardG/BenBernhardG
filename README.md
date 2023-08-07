@@ -6,8 +6,8 @@
     </div>
 </div>
 <p align="center">
-     <img src="https://github-readme-stats.vercel.app/api?username=craftsarmy&show_icons=true&theme=dracula" />
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=craftsarmy&theme=dracula" />
+     <img src="https://github-readme-stats.vercel.app/api?username=benbernhardg&show_icons=true&theme=dracula" />
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benbernhardg&theme=dracula" />
 </p>
 <p align="center">
         <img src="https://img.icons8.com/ios-filled/344/discord-logo.png" height="32" />
